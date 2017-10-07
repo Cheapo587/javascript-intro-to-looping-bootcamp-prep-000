@@ -7,6 +7,7 @@ function forLoop(array){
         array.push(`I am ${i} stange loops.`)
       }
   }
+  return array
 }
 
 function whileLoop(n){
